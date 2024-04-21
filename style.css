@@ -76,3 +76,20 @@ footer {
 hr {
   border: 1px solid black;
 }
+
+.group {
+  display: flex;
+  flex-direction: row;
+}
+
+#portfolio p {
+  font-size: 14px;
+}
+
+#portfolio section {
+  margin: 10px;
+}
+
+#about p,ul {
+  text-align: left;
+}
